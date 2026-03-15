@@ -297,6 +297,12 @@ After updating the database, the frontend refreshes its state so the UI reflects
 
 ---
 
+# Recordings
+
+Link : https://drive.google.com/file/d/1TSlsTcQQbO7z7b6XqDHestA5n8wMQSik/view?usp=sharing
+
+---
+
 # Future Improvements
 
 * Task priority levels
